@@ -1,41 +1,42 @@
 {
-  "pages": [
-    {
-      "id": "5sZ2aaL",
-      "grid": {
-        "tiles": []
-      },
-      "show": true,
-      "showTitle": false,
-      "titleAlign": "CENTER",
-      "titleFontColor": "#444444",
-      "titleFontSize": 28,
-      "enableCrossFilters": true,
-      "backgroundColor": "#ffffff",
-      "showFilterPanel": true,
-      "filtersParams": {
-        "panelPosition": "TOP",
-        "engineType": "LINO"
-      }
-    }
-  ],
-  "owner": "admin",
-  "listed": true,
-  "name": "github test\u0027s default dashboard",
-  "showGrid": false,
-  "showNavigationArrows": false,
-  "reloadWhenEventReceived": false,
+  "checklists": {
+    "checklists": []
+  },
+  "columnNumber": 36,
   "creationTag": {
-    "versionNumber": 0,
+    "extendedProperties": {},
     "lastModifiedBy": {
       "login": "admin"
     },
     "lastModifiedOn": 1731523433745,
-    "extendedProperties": {}
+    "versionNumber": 0
   },
-  "tags": [],
   "customFields": {},
-  "checklists": {
-    "checklists": []
-  }
+  "listed": true,
+  "name": "github test's default dashboard",
+  "owner": "admin",
+  "pages": [
+    {
+      "backgroundColor": "#ffffff",
+      "enableCrossFilters": true,
+      "filtersParams": {
+        "engineType": "LINO",
+        "panelPosition": "TOP"
+      },
+      "grid": {
+        "tiles": []
+      },
+      "id": "5sZ2aaL",
+      "show": true,
+      "showFilterPanel": true,
+      "showTitle": false,
+      "titleAlign": "CENTER",
+      "titleFontColor": "#444444",
+      "titleFontSize": 28
+    }
+  ],
+  "reloadWhenEventReceived": false,
+  "showGrid": false,
+  "showNavigationArrows": false,
+  "tags": []
 }
